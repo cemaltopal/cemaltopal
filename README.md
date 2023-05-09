@@ -1,4 +1,4 @@
-<img src="[https://github.com/cemaltopal/cemaltopal/blob/main/Ads%C4%B1z%20tasar%C4%B1m.png?raw=true](https://github.com/cemaltopal/cemaltopal/blob/main/website-gddf53b30e_640.jpg?raw=true)">
+<img src="[[https://github.com/cemaltopal/cemaltopal/blob/main/Ads%C4%B1z%20tasar%C4%B1m.png?raw=true](https://github.com/cemaltopal/cemaltopal/blob/main/website-gddf53b30e_640.jpg?raw=true)](https://github.com/cemaltopal/cemaltopal/blob/main/n16t03rh.png?raw=true)">
 
 <h1 align="center">Hi 👋, I'm Cemal Topal</h1>
 <h3 align="center">Full Stack Automation Test Engineer</h3>
